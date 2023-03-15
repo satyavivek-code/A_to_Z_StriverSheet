@@ -10,6 +10,11 @@ int largest(vector<int> &arr, int n)
 }
 
 
+/*
+Time complexity - O(N*log(N))
+Space Complexity - O(N)
+*/
+
 
 /*
 VS code
@@ -33,3 +38,8 @@ int main()
     cout << "The largest element in array is : "<< max << endl;
     return 0;
 }
+
+/*
+Time complexity - O(N)
+Space Complexity - O(1)
+*/
